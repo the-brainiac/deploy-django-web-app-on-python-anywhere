@@ -67,6 +67,6 @@
 
         | URL             | DIRECTORY                                      | DELETE        |
         | -------------   |:----------------------------------------------:|:-------------:|
-        | `/static/`      | `/home/PROJECT_NAME/PROJECT_NAME/staticfiles/`     |
+        | `/static/`      | `/home/USER_NAME/PROJECT_NAME/staticfiles/`     |
 
     That's it now click on reload your app will be live if you have followed everything accordingly.
